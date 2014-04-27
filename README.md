@@ -22,6 +22,10 @@ Future todo list
 =======================
 
 More robust, able to process different errors;
+
 Multi threads to speed up crawling;
+
 Database support;
+
 Save collections to PDFs not just HTMLs;
+
