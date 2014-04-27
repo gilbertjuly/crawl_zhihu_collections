@@ -13,6 +13,9 @@ Try "easy_install BeautifulSoup4" if it is not installed.
 
 Command Usage
 =======================
+python crawl_zhihu.py [someone's collection URL]
+
+example:
 
 python crawl_zhihu.py http://www.zhihu.com/collection/31085150
 
